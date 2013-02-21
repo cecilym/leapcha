@@ -7,6 +7,9 @@ A proof of concept captcha-like jQuery plugin for use with the Leap Motion devic
 * Add a few HTML lines to your form to init Leapcha.
 * The user draws the shape in the air and if it validates, the plugin inserts the form's `action` into the `<form>` tag. At this point the user is able to submit the form.
 
+## Example
+[Here's an example](http://johnbarbagallo.com/leapcha/) of Leapcha in action. Be sure to connect your Leap Motion device!
+
 ## How To Use
 
 _NOTE: Below are steps that will get the index.html example working properly. You might need to tweak the process according to your current build configuration._
